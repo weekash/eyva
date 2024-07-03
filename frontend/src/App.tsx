@@ -1,10 +1,11 @@
 import './App.css'
+import TeamMembers from './pages/TeamMembers'
 
 function App() {
 
   return (
     <>
-      Hello World       
+      <TeamMembers/>
     </>
   )
 }
